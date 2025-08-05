@@ -1,3 +1,52 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "294c",
+      "cityName": "Villematier",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-05T02:45:17.870Z",
+      "notes": "",
+      "position": {
+        "lat": "43.8193689249055",
+        "lng": "1.5185541913153513"
+      }
+    },
+    {
+      "id": "0eaf",
+      "cityName": "Canillo",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-08-05T02:45:28.047Z",
+      "notes": "",
+      "position": {
+        "lat": "42.60269786082298",
+        "lng": "1.7163705334946977"
+      }
+    },
+    {
+      "id": "e078",
+      "cityName": "Llivia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-05T02:46:29.534Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45643575809025",
+        "lng": "1.9586247382833437"
+      }
+    },
+    {
+      "id": "f024",
+      "cityName": "Jaba",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-08-05T02:46:53.793Z",
+      "notes": "",
+      "position": {
+        "lat": "9.493185369307326",
+        "lng": "8.045917685218763"
+      }
+    }
+  ]
 }
