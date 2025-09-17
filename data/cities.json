@@ -47,6 +47,54 @@
         "lat": "9.493185369307326",
         "lng": "8.045917685218763"
       }
+    },
+    {
+      "id": "f127",
+      "cityName": "Boudri",
+      "country": "Burkina Faso",
+      "emoji": "🇧🇫",
+      "date": "2025-09-17T13:16:41.260Z",
+      "notes": "lovely",
+      "position": {
+        "lat": "11.997147005569248",
+        "lng": "-0.639955905421108"
+      }
+    },
+    {
+      "id": "331e",
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2025-09-17T13:16:55.755Z",
+      "notes": "lovely",
+      "position": {
+        "lat": "16.42607472540728",
+        "lng": "-2.1350400010105823"
+      }
+    },
+    {
+      "id": "37c5",
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2025-09-17T13:18:35.883Z",
+      "notes": "",
+      "position": {
+        "lat": "16.46885815919995",
+        "lng": "-2.465555843672491"
+      }
+    },
+    {
+      "id": "4ab0",
+      "cityName": "Prang",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2025-09-17T13:18:59.558Z",
+      "notes": "lovely",
+      "position": {
+        "lat": "7.909392599326083",
+        "lng": "-1.2226643236123726"
+      }
     }
   ]
 }
