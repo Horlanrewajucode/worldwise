@@ -4,9 +4,9 @@ import styles from "./Product.module.css";
 
 export default function Product() {
   return (
-    <main className={styles.product}>
-      <PageNav/>
-      <section>
+    <main className={`${styles.product}`}>
+      <PageNav />
+      <section className="flex flex-col md:flex-row md:w-[60%]">
         <div>
           <h2>
             Simple pricing.
@@ -19,7 +19,11 @@ export default function Product() {
             voluptatem iste.
           </p>
         </div>
-        <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
+        <img
+          src="img-2.jpg"
+          alt="overview of a large city with skyscrapers"
+          className="md:w-[50%]"
+        />
       </section>
     </main>
   );

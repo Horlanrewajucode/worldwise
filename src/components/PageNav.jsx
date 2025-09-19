@@ -4,10 +4,9 @@ import Logo from "./Logo";
 
 export default function PageNav() {
   return (
-    <nav className={styles.nav}>
+    <nav className={`${styles.nav} flex items-center justify-center ` } >
         <Logo />
-        
-      <ul>
+      <ul className="flex gap-4 md:flex-row md:gap-16  flex-col">
         <li>
           <NavLink to="/pricing"> Pricing</NavLink>
         </li>

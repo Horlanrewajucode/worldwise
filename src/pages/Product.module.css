@@ -6,16 +6,16 @@
 }
 
 .product section {
-  width: clamp(80rem, 80%, 90rem);
+  /* width: clamp(80rem, 80%, 90rem); */
   margin: 6rem auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* display: flex; */
+  /* grid-template-columns: 1fr 1fr; */
   gap: 7rem;
   align-items: center;
 }
 
 .product img {
-  width: 100%;
+  /* width: 100%; */
 }
 
 .product h2 {
