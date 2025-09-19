@@ -5,7 +5,7 @@ import styles from "./AppLayout.module.css";
 
 export default function AppLayout() {
   return (
-    <div className={`${styles.app} flex flex-col md:flex-row`}>
+    <div className={styles.app}>
       <SideBar />
       <Map />
       <User />

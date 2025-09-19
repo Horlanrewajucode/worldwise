@@ -2,6 +2,16 @@
   height: 100vh;
   padding: 2.4rem;
   overscroll-behavior-y: none;
-  /* display: flex; */
+  display: flex;
+  flex-direction: row;
   position: relative;
+}
+
+@media only screen and (max-width : 768px){
+.app{
+  flex-direction: column;
+  padding: 1.5rem;
+  margin-top: 60px;
+  overscroll-behavior-y: auto;
+}
 }

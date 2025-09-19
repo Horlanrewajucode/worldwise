@@ -26,3 +26,9 @@
 .nav a:global(.active) {
   background-color: var(--color-dark--0);
 }
+
+@media only screen and (max-width : 768px){
+  .nav{
+    width: 180px;
+  }
+}

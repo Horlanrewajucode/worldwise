@@ -24,3 +24,13 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+
+@media only screen and (max-width : 768px){
+  .login{
+    padding: 2.5rem 1.5rem;
+  }
+  .form{
+    width: 90%;
+    padding: 2rem 1rem;
+  }
+}

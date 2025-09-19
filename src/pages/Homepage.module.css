@@ -32,3 +32,21 @@
   color: var(--color-light--1);
   margin-bottom: 2.5rem;
 }
+
+@media only screen and (max-width : 768px){
+  .homepage{
+    height: 100%;
+    padding: 5rem 3rem;
+  }
+.homepage section{
+  margin-top: 70px;
+  gap: 4rem;
+}
+  .homepage h1{
+    font-size: 3rem;
+    line-height: 1;
+  }
+  .homepage h2{
+    font-size: 1.7rem;
+  }
+}
