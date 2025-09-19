@@ -1,27 +1,39 @@
 {
   "cities": [
     {
-      "id": "0b4e",
-      "cityName": "Kagarko",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2025-09-19T21:34:30.324Z",
+      "id": "7d74",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-09-19T23:12:38.976Z",
       "notes": "",
       "position": {
-        "lat": "9.470735674130932",
-        "lng": "7.932128906250001"
+        "lat": "42.553080288955826",
+        "lng": "1.6918945312500002"
       }
     },
     {
-      "id": "b494",
-      "cityName": "Legutio",
+      "id": "1706",
+      "cityName": "Campelles",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-09-19T21:35:57.673Z",
+      "date": "2025-09-19T23:19:37.124Z",
       "notes": "",
       "position": {
-        "lat": "42.96983905274654",
-        "lng": "-2.6167481385940476"
+        "lat": "42.27788466585344",
+        "lng": "2.1341669923955835"
+      }
+    },
+    {
+      "id": "a582",
+      "cityName": "la Vall de Boi",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-19T23:24:00.021Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47264250760217",
+        "lng": "0.771615869185145"
       }
     }
   ]
